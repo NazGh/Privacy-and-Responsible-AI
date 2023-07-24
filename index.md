@@ -14,10 +14,19 @@ After this class, you will:
 Krishnaram Kenthapadi is the Chief AI Officer & Chief Scientist of Fiddler AI, an enterprise startup building a responsible AI and ML monitoring platform. Previously, he was a Principal Scientist at Amazon AWS AI, where he led the fairness, explainability, privacy, and model understanding initiatives in the Amazon AI platform. Prior to joining Amazon, he led similar efforts at the LinkedIn AI team, and served as LinkedIn’s representative in Microsoft’s AI and Ethics in Engineering and Research (AETHER) Advisory Board. Previously, he was a Researcher at Microsoft Research Silicon Valley Lab. Krishnaram received his Ph.D. in Computer Science from Stanford University in 2006. He serves regularly on the senior program committees of FAccT, KDD, WWW, WSDM, and related conferences, and co-chaired the 2014 ACM Symposium on Computing for Development. His work has been recognized through awards at NAACL, WWW, SODA, CIKM, ICML AutoML workshop, and Microsoft’s AI/ML conference (MLADS). He has published 50+ papers, with 4500+ citations and filed 150+ patents (70 granted). He has presented tutorials on privacy, fairness, explainable AI, responsible AI, and model monitoring at forums such as KDD ’18 ’19 '22, WSDM ’19, WWW ’19 ’20 '21, FAccT ’20 '21 ‘22, AAAI ’20 '21, and ICML '21, and instructed a course on AI at Stanford.
 # Workshop Materials
 
-## Pre-workshop Checklist
-1. Sign up for [Piazza](https://piazza.com/stanford/summer2023/icme) (class code icme). We will be using Piazza to answer questions during the workshop.
-2. You should have received a welcome email with the Zoom link and password. Please email us (hanakl [at] stanford [dot] edu) if you haven’t.
-3. Familiarize yourself with the schedule and see you Monday July 31st at 1:00 pm PT!
+## Prerequisites
+This course is aimed at attendees with a wide range of interests and backgrounds, including researchers interested in knowing about techniques and tools for model explainability, fairness, and privacy in AI as well as practitioners interested in implementing responsible AI models for web-scale machine learning and data mining applications. We will not assume any prerequisite knowledge, and present the intuition underlying various explainability, fairness, and privacy notions and techniques to ensure that the material is accessible to all attendees. To knowledgeably appreciate what can go wrong when developing AI/ML systems and how such problems are addressed, it's helpful to have a conceptual understanding of machine learning and how it differs from computer software developed by explicit programming. Previous exposure to machine learning at the level of the companion "Introduction to Machine Learning" workshop in this series should suffice. Beginners to ML will do well to read the transcript from this link: The Ethical Algorithm, with Michael Kearns. Warning: it will take a careful reader at least 15, if not 30 minutes or more!
+## Requirements
+To join the workshop, you'll need a device with a recent web browser and two-way audio and video access to Zoom. This could be a laptop or desktop computer running any operating system, such as Windows, Mac, or Linux. Participative activities benefit from a larger screen, so joining via a smartphone or tablet may not provide the best learning experience. 
+# Sylabus Outline
+The course will consist of two parts: responsible AI foundations including motivation, definitions, models, algorithms, and tools for explainability, fairness, and privacy in AI/ML systems (about 2 hours) and case studies across different companies, spanning different application domains, along with practical challenges and opportunities (about 4 hours).
+## Foundations
+- Motivation from regulatory, business, and data science perspectives
+- Fairness-aware ML techniques/tools
+- Explainable AI techniques/tools
+- Privacy-preserving ML techniques/tools
+- Open source and commercial tools for AI explainability, fairness, and privacy (e.g., Amazon SageMaker Clarify and Debugger, Google AI Explainability, Fairness, and What-If tools, Fiddler Explainable AI Engine, LinkedIn Fairness Toolkit (LiFT), Microsoft Fairlearn and InterpretML)
+
 
 ## Schedule
 ISL = [Introduction to Statistical Learning](https://www.dropbox.com/s/krvhmt7z8zxhl7f/ISLRv2_website.pdf?dl=0)
