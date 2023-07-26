@@ -43,4 +43,44 @@ Friday, July 28, 2023 (8:00 am - 11:00 am PST)
 
 
 ## Additional Resources
-- 
+- ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT): https://facctconference.org/
+
+– AAAI/ACM Conference on Artificial Intelligence, Ethics, and Society (AIES): https://www.aies-conference.com/2023/
+
+– Symposium on Foundations of Responsible Computing (FORC):https://responsiblecomputing.org/
+
+– Trustworthy ML Initiative: https://www.trustworthyml.org/
+
+– Sara Hajian, Francesco Bonchi, and Carlos Castillo, Algorithmic bias: From discrimination discovery to fairness-aware data mining, KDD Tutorial, 2016: https://francescobonchi.com/KDD2016_Tutorial_Part1&2_web.pdf
+
+Solon Barocas and Moritz Hardt, Fairness in machine learning, NeurIPS Tutorial, 2017.
+
+Kate Crawford, The Trouble with Bias, NeurIPS Keynote, 2017.
+
+Arvind Narayanan, 21 fairness definitions and their politics, FAccT Tutorial, 2018.
+
+Sam Corbett-Davies and Sharad Goel, Defining and Designing Fair Algorithms, Tutorials at EC 2018 and ICML 2018.
+
+Ben Hutchinson and Margaret Mitchell, Translation Tutorial: A History of Quantitative Fairness in Testing, FAccT Tutorial, 2019.
+
+Henriette Cramer, Kenneth Holstein, Jennifer Wortman Vaughan, Hal Daumé III, Miroslav Dudík, Hanna Wallach, Sravana Reddy, and Jean Garcia-Gathright, Translation Tutorial: Challenges of incorporating algorithmic fairness into industry practice, FAccT Tutorial, 2019.
+
+Sarah Bird, Ben Hutchinson, Krishnaram Kenthapadi, Emre Kiciman, and Margaret Mitchell, Fairness-Aware Machine Learning: Practical Challenges and Lessons Learned, Tutorials at WSDM 2019, WWW 2019, and KDD 2019.
+
+Krishna Gade, Sahin Cem Geyik, Krishnaram Kenthapadi, Varun Mithal, and Ankur Taly, Explainable AI in Industry, Tutorials at KDD 2019, FAccT 2020, and WWW 2020.
+
+Freddy Lecue, Krishna Gade, Fosca Giannotti, Sahin Geyik, Riccardo Guidotti, Krishnaram Kenthapadi, Pasquale Minervini, Varun Mithal, and Ankur Taly, Explainable AI: Foundations, Industrial Applications, Practical Challenges, and Lessons Learned, AAAI 2020 Tutorial.
+
+Himabindu Lakkaraju, Julius Adebayo, and Sameer Singh, Explaining Machine Learning Predictions: State-of-the-art, Challenges, and Opportunities, Tutorials at NeurIPS 2020 and AAAI 2021.
+
+Freddy Lecue, Pasquale Minervini, Fosca Giannotti and Riccardo Guidotti, On Explainable AI: From Theory to Motivation, Industrial Applications and Coding Practices, AAAI 2021 Tutorial.
+
+Kamalika Chaudhuri and Anand D. Sarwate, Differentially Private Machine Learning: Theory, Algorithms, and Applications, NeurIPS 2017 Tutorial.
+
+Krishnaram Kenthapadi, Ilya Mironov, and Abhradeep Guha Thakurta, Privacy-preserving Data Mining in Industry, Tutorials at KDD 2018, WSDM 2019, and WWW 2019.
+
+Krishnaram Kenthapadi, Ben Packer, Mehrnoosh Sameki, Nashlie Sephus, Responsible AI in Industry, Tutorials at AAAI 2021, FAccT 2021, WWW 2021, ICML 2021.
+
+Krishnaram Kenthapadi, Himabindu Lakkaraju, Pradeep Natarajan, Mehrnoosh Sameki, Model Monitoring in Practice, Tutorials at FAccT 2022, KDD 2022, and WWW 2023.
+
+Dmitry Ustalov, Nathan Lambert, Reinforcement Learning from Human Feedback, ICML 2023 Tutorial (Slides).
