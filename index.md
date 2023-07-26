@@ -29,55 +29,18 @@ The course will consist of two parts: responsible AI foundations including motiv
 - Explainable AI techniques/tools
 - Privacy-preserving ML techniques/tools
 - Open source and commercial tools for AI explainability, fairness, and privacy (e.g., Amazon SageMaker Clarify and Debugger, Google AI Explainability, Fairness, and What-If tools, Fiddler Explainable AI Engine, LinkedIn Fairness Toolkit (LiFT), Microsoft Fairlearn and InterpretML).
-## Case Studies (including practical challenges and lessons learned during deployment in industry)
+## Case Studies (including practical challenges and lessons based on industry experience)
 We will present case studies across different companies, spanning different application domains. We will emphasize that topics related to responsible AI are socio-technical, that is, they are topics at the intersection of society and technology. The underlying challenges cannot be addressed by technologists alone; we need to work together with all key stakeholders --- such as customers of a technology, those impacted by a technology, and people with background in ethics and related disciplines --- and take their inputs into account while designing these systems. Finally, we will identify open problems and research directions for the data mining/machine learning community.
 
 
 
 ## Schedule
-ISL = [Introduction to Statistical Learning](https://www.dropbox.com/s/krvhmt7z8zxhl7f/ISLRv2_website.pdf?dl=0)
-ESL = [Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn/)
-### Day 1 Unsupervised Learning
-#### Session 1 (1:00 pm - 2:25 pm PST)
-- Clustering (K-means, Hierarchical Clustering)
-  - ISL: Section 12.4 and 12.5.4
+#### Session 1 
+Friday, July 28, 2023 (8:00 am - 11:00 am PST)
 
-#### Session 2 Unsupervised Learning (2:35 pm - 3:00 pm PST)
-- Dimensionality Reduction (PCA, ICA, MDS, SOM, tSNE) 
-  - ISL: Section 12.2 and 12.5.1 (PCA)
-  - ESL: 14.4 (Self-Organizing Maps, SOM)
-  - ESL: Section 14.7.2 (ICA, advanced topic, skim only)
-  - ESL: 14.8 (Multidimensional Scaling)
+#### Session 2 
+-Friday, August 3, 2023 (8:00 am - 11:00 am PST)
 
-#### Session 3 Imputation (3:15 pm - 4:00 pm PST)
-- Imputation 
-  - ISL: Section 12.3 and 12.5.2
-  - ESL: Section 9.6 (Imputation)
-
-### Day 2 Unsupervised Learning
-#### Session 1 (1:00 pm - 2:25 pm PST)
-- Fundamental Techniques of Supervised Learning: Cross-validation, Regularization and Sparsity (lasso, ridge regression, elastic net) 
-  - ISL: Section 5.1 and Section 13.2 (Cross-validation) 
-  - ISL: Section 6.2 and 6.5.2 (Regularization and Sparsity)
-  - ESL: Section 3.5.1 (Principal Components Regression)
-
-#### Session 2 (2:35 pm - 4:00 pm PST)  
-- Classification and Regression Trees
-  - ISL: Section 8.1
-- Ensemble Methods (Boosting, Bagging, and Random Forests)
-  - ISL: Section 5.2 and 5.3.4 (Bootstrap)
-  - ISL: Section 8.2 and 8.3.1 - 8.3.4 (Boosting, Bagging, and Random Forests)
-- Neural Nets teaser (regularization and deep learning) 
-  - ISL: Section 10.1 - 10.2 and 10.7
 
 ## Additional Resources
-- [An Introduction to Statistical Learning with Applications in R by Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani](https://www.dropbox.com/s/krvhmt7z8zxhl7f/ISLRv2_website.pdf?dl=0) 
-  - The datasets for this book can be found [here](https://www.statlearning.com/resources-second-edition).
-- [The Elements of Statistical Learning by Trevor Hastie, Robert Tibshirani, and Jerome Friedman](https://hastie.su.domains/ElemStatLearn/)  
-  - This comprehensive reference presents more material, and at a higher mathematical level, than the preceding text. 
-- [Convex Optimization by Boyd and Vandenberghe](https://stanford.edu/~boyd/cvxbook/), is an excellent introduction to convex optimization techniques.
-- R
-  - Download link for R programming language - [http://www.r-project.org/](http://www.r-project.org/)
-  - Optional RStudio IDE - [http://www.rstudio.com/](http://www.rstudio.com/)
-  - An excellent tutorial: [swirl](https://cran.r-project.org/web/packages/swirl/index.html).
-  - If you want to dive deeper, look at the R for Data Science ([free](https://r4ds.had.co.nz/)) online text.
+- 
