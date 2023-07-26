@@ -39,7 +39,7 @@ We will present case studies across different companies, spanning different appl
 Friday, July 28, 2023 (8:00 am - 11:00 am PST)
 
 #### Session 2 
--Friday, August 3, 2023 (8:00 am - 11:00 am PST)
+Friday, August 3, 2023 (8:00 am - 11:00 am PST)
 
 
 ## Additional Resources
