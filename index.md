@@ -22,13 +22,13 @@ This course is aimed at attendees with a wide range of interests and backgrounds
 To join the workshop, you'll need a device with a recent web browser and two-way audio and video access to Zoom. This could be a laptop or desktop computer running any operating system, such as Windows, Mac, or Linux. Participative activities benefit from a larger screen, so joining via a smartphone or tablet may not provide the best learning experience. 
 ## Sylabus Outline
 The course will consist of two parts: responsible AI foundations including motivation, definitions, models, algorithms, and tools for explainability, fairness, and privacy in AI/ML systems (about 2 hours) and case studies across different companies, spanning different application domains, along with practical challenges and opportunities (about 4 hours).
-## Foundations
+### Foundations
 - Motivation from regulatory, business, and data science perspectives
 - Fairness-aware ML techniques/tools
 - Explainable AI techniques/tools
 - Privacy-preserving ML techniques/tools
 - Open source and commercial tools for AI explainability, fairness, and privacy (e.g., Amazon SageMaker Clarify and Debugger, Google AI Explainability, Fairness, and What-If tools, Fiddler Explainable AI Engine, LinkedIn Fairness Toolkit (LiFT), Microsoft Fairlearn and InterpretML).
-## Case Studies (including practical challenges and lessons based on industry experience)
+### Case Studies (including practical challenges and lessons based on industry experience)
 We will present case studies across different companies, spanning different application domains. We will emphasize that topics related to responsible AI are socio-technical, that is, they are topics at the intersection of society and technology. The underlying challenges cannot be addressed by technologists alone; we need to work together with all key stakeholders --- such as customers of a technology, those impacted by a technology, and people with background in ethics and related disciplines --- and take their inputs into account while designing these systems. Finally, we will identify open problems and research directions for the data mining/machine learning community.
 
 
