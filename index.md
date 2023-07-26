@@ -28,7 +28,7 @@ The course will consist of two parts: responsible AI foundations including motiv
 - Explainable AI techniques/tools
 - Privacy-preserving ML techniques/tools
 - Open source and commercial tools for AI explainability, fairness, and privacy (e.g., Amazon SageMaker Clarify and Debugger, Google AI Explainability, Fairness, and What-If tools, Fiddler Explainable AI Engine, LinkedIn Fairness Toolkit (LiFT), Microsoft Fairlearn and InterpretML).
-### Case Studies (including practical challenges and lessons based on industry experience)
+## Case Studies (including practical challenges and lessons based on industry experience)
 We will present case studies across different companies, spanning different application domains. We will emphasize that topics related to responsible AI are socio-technical, that is, they are topics at the intersection of society and technology. The underlying challenges cannot be addressed by technologists alone; we need to work together with all key stakeholders --- such as customers of a technology, those impacted by a technology, and people with background in ethics and related disciplines --- and take their inputs into account while designing these systems. Finally, we will identify open problems and research directions for the data mining/machine learning community.
 
 
@@ -42,7 +42,8 @@ Friday, August 4, 2023 (8:00 am - 11:00 am PST)
 
 
 ## Additional Resources
-- ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT): https://facctconference.org/
+
+– ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT): https://facctconference.org/
 
 – AAAI/ACM Conference on Artificial Intelligence, Ethics, and Society (AIES): https://www.aies-conference.com/2023/
 
